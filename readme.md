@@ -3,7 +3,7 @@
 A feature-rich collaborative drawing application built with Next.js and modern web technologies. Create, edit, and share drawings in real-time with an intuitive interface and powerful drawing tools.
 
 # ScreenShot
-<img width="1599" height="782" alt="ScreenShot" src="[https://github.com/justdraw/public/ScreenShot.png](https://github.com/akshitsutharr/justdraw/public/ScreenShot.png)" />
+<img width="1599" height="782" alt="ScreenShot" src="https://github.com/akshitsutharr/justdraw/public/ScreenShot.png" />
 
 
 ## Features
