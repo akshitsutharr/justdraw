@@ -89,13 +89,13 @@ A feature-rich collaborative drawing application built with Next.js and modern w
 2. Install dependencies:
 
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. Run the development server:
 
    ```bash
-   pnpm dev
+   npm dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
@@ -123,10 +123,10 @@ utils/           # Helper functions
 
 ## Scripts
 
-- `pnpm dev` - Start development server
-- `pnpm build` - Build for production
-- `pnpm start` - Start production server
-- `pnpm lint` - Run ESLint
+- `npm dev` - Start development server
+- `npm build` - Build for production
+- `npm start` - Start production server
+- `npm lint` - Run ESLint
 
 ## Configuration
 
