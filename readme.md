@@ -83,7 +83,7 @@ A feature-rich collaborative drawing application built with Next.js and modern w
 
    ```bash
    git clone https://github.com/yourusername/akshit-draw.git
-   cd akshit-draw
+   cd justdraw
    ```
 
 2. Install dependencies:
@@ -95,7 +95,7 @@ A feature-rich collaborative drawing application built with Next.js and modern w
 3. Run the development server:
 
    ```bash
-   npm dev
+   npm run dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
